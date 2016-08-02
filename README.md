@@ -1,4 +1,6 @@
 # pySMS
 
+Send fake SMS with smsgang API
+
 Usage:
-      sms.py < mittente > (+39)<destinatario> <testo> <pin>
+      sms.py < from > (+39)< to > < text > < pincode >
