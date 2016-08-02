@@ -2,5 +2,5 @@
 
 Send fake SMS with smsgang API
 
-Usage:\n
+Usage:<br>
       sms.py < from > (+39)< to > < text > < pincode >
